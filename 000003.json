@@ -1,0 +1,700 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "Jetzt",
+            "type": "TIME",
+            "start": 0,
+            "end": 5,
+            "lettercase": "UC"
+        },
+        {
+            "id": 2,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 219,
+            "end": 224,
+            "lettercase": "LC"
+        },
+        {
+            "id": 3,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 372,
+            "end": 377,
+            "lettercase": "LC"
+        },
+        {
+            "id": 4,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 554,
+            "end": 560,
+            "lettercase": "UC"
+        },
+        {
+            "id": 5,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 756,
+            "end": 762,
+            "lettercase": "UC"
+        },
+        {
+            "id": 6,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 764,
+            "end": 770,
+            "lettercase": "UC"
+        },
+        {
+            "id": 7,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 775,
+            "end": 780,
+            "lettercase": "UC"
+        },
+        {
+            "id": 8,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 866,
+            "end": 871,
+            "lettercase": "LC"
+        },
+        {
+            "id": 9,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 963,
+            "end": 968,
+            "lettercase": "LC"
+        },
+        {
+            "id": 10,
+            "name": "Jahr zweitausenddreiundzwanzig",
+            "type": "TIME",
+            "start": 972,
+            "end": 1002,
+            "lettercase": "UC"
+        },
+        {
+            "id": 11,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 1003,
+            "end": 1009,
+            "lettercase": "UC"
+        },
+        {
+            "id": 12,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 1065,
+            "end": 1070,
+            "lettercase": "UC"
+        },
+        {
+            "id": 13,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1172,
+            "end": 1177,
+            "lettercase": "LC"
+        },
+        {
+            "id": 14,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 1182,
+            "end": 1188,
+            "lettercase": "UC"
+        },
+        {
+            "id": 15,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1358,
+            "end": 1363,
+            "lettercase": "LC"
+        },
+        {
+            "id": 16,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 1893,
+            "end": 1899,
+            "lettercase": "UC"
+        },
+        {
+            "id": 17,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 2006,
+            "end": 2012,
+            "lettercase": "UC"
+        },
+        {
+            "id": 18,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 2146,
+            "end": 2152,
+            "lettercase": "UC"
+        },
+        {
+            "id": 19,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 2157,
+            "end": 2162,
+            "lettercase": "LC"
+        },
+        {
+            "id": 20,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 2444,
+            "end": 2449,
+            "lettercase": "LC"
+        },
+        {
+            "id": 21,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 2911,
+            "end": 2917,
+            "lettercase": "UC"
+        },
+        {
+            "id": 22,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 3082,
+            "end": 3088,
+            "lettercase": "UC"
+        },
+        {
+            "id": 23,
+            "name": "sehr mehreren Dekaden",
+            "type": "TIME",
+            "start": 3115,
+            "end": 3136,
+            "lettercase": "MC"
+        },
+        {
+            "id": 24,
+            "name": "USA",
+            "type": "LOCATION",
+            "start": 3147,
+            "end": 3150,
+            "lettercase": "CA"
+        },
+        {
+            "id": 25,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3263,
+            "end": 3268,
+            "lettercase": "LC"
+        },
+        {
+            "id": 26,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 3325,
+            "end": 3331,
+            "lettercase": "UC"
+        },
+        {
+            "id": 27,
+            "name": "USA",
+            "type": "LOCATION",
+            "start": 3344,
+            "end": 3347,
+            "lettercase": "CA"
+        },
+        {
+            "id": 28,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3437,
+            "end": 3442,
+            "lettercase": "LC"
+        },
+        {
+            "id": 29,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 3541,
+            "end": 3547,
+            "lettercase": "UC"
+        },
+        {
+            "id": 30,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 3897,
+            "end": 3903,
+            "lettercase": "UC"
+        },
+        {
+            "id": 31,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 3990,
+            "end": 3995,
+            "lettercase": "UC"
+        },
+        {
+            "id": 32,
+            "name": "USA",
+            "type": "LOCATION",
+            "start": 4044,
+            "end": 4047,
+            "lettercase": "CA"
+        },
+        {
+            "id": 33,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 4225,
+            "end": 4230,
+            "lettercase": "UC"
+        },
+        {
+            "id": 34,
+            "name": "Indien",
+            "type": "LOCATION",
+            "start": 4267,
+            "end": 4273,
+            "lettercase": "UC"
+        },
+        {
+            "id": 35,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 4283,
+            "end": 4288,
+            "lettercase": "UC"
+        },
+        {
+            "id": 36,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 4432,
+            "end": 4437,
+            "lettercase": "UC"
+        },
+        {
+            "id": 37,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4502,
+            "end": 4507,
+            "lettercase": "LC"
+        },
+        {
+            "id": 38,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4599,
+            "end": 4604,
+            "lettercase": "LC"
+        },
+        {
+            "id": 39,
+            "name": "über Jahre",
+            "type": "TIME",
+            "start": 4808,
+            "end": 4818,
+            "lettercase": "MC"
+        },
+        {
+            "id": 40,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4843,
+            "end": 4848,
+            "lettercase": "LC"
+        },
+        {
+            "id": 41,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5077,
+            "end": 5082,
+            "lettercase": "LC"
+        },
+        {
+            "id": 42,
+            "name": "Frank-Elstner-Moderatoren-Schule",
+            "type": "ORGANIZATION",
+            "start": 5637,
+            "end": 5669,
+            "lettercase": "MC"
+        },
+        {
+            "id": 43,
+            "name": "Frank Elstner",
+            "type": "PERSON",
+            "start": 5695,
+            "end": 5708,
+            "lettercase": "MC"
+        },
+        {
+            "id": 44,
+            "name": "Schlag den Raab",
+            "type": "ORGANIZATION",
+            "start": 5904,
+            "end": 5919,
+            "lettercase": "MC"
+        },
+        {
+            "id": 45,
+            "name": "Franz Rieber",
+            "type": "PERSON",
+            "start": 6281,
+            "end": 6293,
+            "lettercase": "MC"
+        },
+        {
+            "id": 46,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 6678,
+            "end": 6683,
+            "lettercase": "LC"
+        },
+        {
+            "id": 47,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7016,
+            "end": 7021,
+            "lettercase": "LC"
+        },
+        {
+            "id": 48,
+            "name": "August dieses Jahres",
+            "type": "TIME",
+            "start": 7040,
+            "end": 7060,
+            "lettercase": "MC"
+        },
+        {
+            "id": 49,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7192,
+            "end": 7197,
+            "lettercase": "LC"
+        },
+        {
+            "id": 50,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7334,
+            "end": 7339,
+            "lettercase": "LC"
+        },
+        {
+            "id": 51,
+            "name": "I-Bonds",
+            "type": "PRODUCT",
+            "start": 7414,
+            "end": 7421,
+            "lettercase": "MC"
+        },
+        {
+            "id": 52,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 8329,
+            "end": 8334,
+            "lettercase": "LC"
+        },
+        {
+            "id": 53,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9575,
+            "end": 9580,
+            "lettercase": "LC"
+        },
+        {
+            "id": 54,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 10653,
+            "end": 10658,
+            "lettercase": "LC"
+        },
+        {
+            "id": 55,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 12041,
+            "end": 12046,
+            "lettercase": "LC"
+        },
+        {
+            "id": 56,
+            "name": "VW",
+            "type": "PRODUCT",
+            "start": 12583,
+            "end": 12585,
+            "lettercase": "CA"
+        },
+        {
+            "id": 57,
+            "name": "Mercedes",
+            "type": "PRODUCT",
+            "start": 12610,
+            "end": 12618,
+            "lettercase": "UC"
+        },
+        {
+            "id": 58,
+            "name": "BMW",
+            "type": "PRODUCT",
+            "start": 12639,
+            "end": 12642,
+            "lettercase": "CA"
+        },
+        {
+            "id": 59,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 13448,
+            "end": 13453,
+            "lettercase": "LC"
+        },
+        {
+            "id": 60,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 13587,
+            "end": 13592,
+            "lettercase": "LC"
+        },
+        {
+            "id": 61,
+            "name": "gestern",
+            "type": "TIME",
+            "start": 14974,
+            "end": 14981,
+            "lettercase": "LC"
+        },
+        {
+            "id": 62,
+            "name": "gestern",
+            "type": "TIME",
+            "start": 15391,
+            "end": 15398,
+            "lettercase": "LC"
+        },
+        {
+            "id": 63,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 15568,
+            "end": 15573,
+            "lettercase": "LC"
+        },
+        {
+            "id": 64,
+            "name": "heute",
+            "type": "TIME",
+            "start": 15574,
+            "end": 15579,
+            "lettercase": "LC"
+        },
+        {
+            "id": 65,
+            "name": "LinkedIn",
+            "type": "ORGANIZATION",
+            "start": 15591,
+            "end": 15599,
+            "lettercase": "MC"
+        },
+        {
+            "id": 66,
+            "name": "Köln",
+            "type": "LOCATION",
+            "start": 15643,
+            "end": 15647,
+            "lettercase": "UC"
+        },
+        {
+            "id": 67,
+            "name": "gestern",
+            "type": "TIME",
+            "start": 15658,
+            "end": 15665,
+            "lettercase": "LC"
+        },
+        {
+            "id": 68,
+            "name": "Köln",
+            "type": "LOCATION",
+            "start": 15691,
+            "end": 15695,
+            "lettercase": "UC"
+        },
+        {
+            "id": 69,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 15732,
+            "end": 15737,
+            "lettercase": "LC"
+        },
+        {
+            "id": 70,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 15956,
+            "end": 15961,
+            "lettercase": "LC"
+        },
+        {
+            "id": 71,
+            "name": "Jens",
+            "type": "PERSON",
+            "start": 16338,
+            "end": 16342,
+            "lettercase": "UC"
+        },
+        {
+            "id": 72,
+            "name": "in zwei Monaten",
+            "type": "TIME",
+            "start": 16557,
+            "end": 16572,
+            "lettercase": "MC"
+        },
+        {
+            "id": 73,
+            "name": "zweitausendvierundzwanzig",
+            "type": "TIME",
+            "start": 16594,
+            "end": 16619,
+            "lettercase": "LC"
+        },
+        {
+            "id": 74,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 16625,
+            "end": 16630,
+            "lettercase": "LC"
+        },
+        {
+            "id": 75,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 16778,
+            "end": 16783,
+            "lettercase": "LC"
+        },
+        {
+            "id": 76,
+            "name": "Tonka",
+            "type": "PERSON",
+            "start": 16874,
+            "end": 16879,
+            "lettercase": "UC"
+        },
+        {
+            "id": 77,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 16963,
+            "end": 16968,
+            "lettercase": "LC"
+        },
+        {
+            "id": 78,
+            "name": "Hartmut Walz",
+            "type": "PERSON",
+            "start": 17115,
+            "end": 17127,
+            "lettercase": "MC"
+        },
+        {
+            "id": 79,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 17418,
+            "end": 17423,
+            "lettercase": "LC"
+        },
+        {
+            "id": 80,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 17648,
+            "end": 17653,
+            "lettercase": "LC"
+        },
+        {
+            "id": 81,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 17713,
+            "end": 17718,
+            "lettercase": "LC"
+        },
+        {
+            "id": 82,
+            "name": "Jens",
+            "type": "PERSON",
+            "start": 18624,
+            "end": 18628,
+            "lettercase": "UC"
+        },
+        {
+            "id": 83,
+            "name": "Markus",
+            "type": "PERSON",
+            "start": 18678,
+            "end": 18684,
+            "lettercase": "UC"
+        },
+        {
+            "id": 84,
+            "name": "Jens Jüttner",
+            "type": "PERSON",
+            "start": 18771,
+            "end": 18783,
+            "lettercase": "MC"
+        },
+        {
+            "id": 85,
+            "name": "extra ETF",
+            "type": "ORGANIZATION",
+            "start": 19509,
+            "end": 19518,
+            "lettercase": "MC"
+        },
+        {
+            "id": 86,
+            "name": "kommenden Woche",
+            "type": "TIME",
+            "start": 19634,
+            "end": 19649,
+            "lettercase": "MC"
+        },
+        {
+            "id": 87,
+            "name": "extra ETF",
+            "type": "ORGANIZATION",
+            "start": 19673,
+            "end": 19682,
+            "lettercase": "MC"
+        }
+    ]
+}

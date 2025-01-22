@@ -1,0 +1,194 @@
+0	7.579543614542192	O1	Jetzt nicht so, dass es tagesaktuell alles ist, sondern es soll ja mittelfristig, langfristig sozusagen Wege und neue Ideen aufzeigen. Deswegen, [N]
+7.943216579324529	15.94321657932453	O1	äh, hat man da auch nochmal ein bisschen länger was davon und äh, hat jetzt nicht alles so Ultra-Tagesbezug wie, wie T [OVERLAP/] eine [/OVERLAP] Tageszeitung oder sowas, ja. [N]
+16.539328388677244	17.560448727065854	O2	[OVERLAP/] Ja, genau. [/OVERLAP] [N]
+18.264997264860014	25.844540879402206	O1	Genau, jetzt habe äh, ich ein Thema übersprungen, was wir uns noch überleg - überlegt hatten. Ja, wir wollten ja, auch nochmal das Thema Infrastruktur beziehungsweise, äh, [N]
+25.870062553512852	31.438268739305443	O1	in Bezug auf Indien auch noch einmal anschauen, da, da haben wir nämlich auch was. oder, du glaube ich sogar, hast etwas dazugeschrieben. [N]
+31.77063063326491	37.736280614315476	O1	Ähm, da kennst du dich also besonders gut aus. Wie, wie steht es denn um Indien? Indien und China haben ja, äh, sozusagen einen
+37.736280614315476	41.955904565495665	O1	Schichtwechsel gehabt, ja. Äh, ähm, aber das kannst du jetzt gleich viel besser erklären. [N]
+42.53545255626182	49.27362920254257	O2	Ja, es ist ganz interessant. Ähm, es ist nämlich so, dass jetzt im Jahr zweitausenddreiundzwanzig Indien, ähm, bevölkerungsseitig, [N]
+49.55772135487893	53.194065894992484	O2	ähm, größer ist als, äh, China und schneller wächst. [N]
+53.607559371274974	60.32349785250644	O2	Und äh, das hat natürlich dann viele Implikationen. Und ähm, wir haben uns jetzt mal Indien angeguckt. [N]
+60.33455729024212	64.54283588531332	O2	Vor allen Dingen aus der Perspektive, dann des, des Anliegenden oder der Anliegenden, [N]
+64.83829172374313	69.43044544489787	O2	ähm, ob das sich das nun lohnt oder nicht. Ähm, [N]
+69.80333947584163	76.8282050917366	O2	da muss man jetzt natürlich ähm, dann wieder differenzieren. Ich weiß, das ist immer so diese äh, allseits unbeliebte Antwort. [N]
+77.06684249969916	78.34772901327091	O2	Es kommt darauf an, [N]
+78.67727590998106	85.83591003577564	O2	ähm, denn es ist natürlich so, es gehen nicht so viele Stücke um. Also der Handel ist nicht sehr liquide. [N]
+86.08091058280361	90.905000547028	O2	Indische Aktien, hmm, da muss man, glaube ich, schon ein bisschen am Aktienmarkt länger vertreten sein. [N]
+91.10954689671017	97.98	O2	Aber natürlich kann man in, die indische Wirtschaft auch mit ETFs halt abbilden, so wie wir halt einige dort [N]
+97.98	101.3863587628415	O2	mal äh, in den Fokus gerückt haben. Aber das Interessante an Indien ist halt, [N]
+101.61363248471058	108.56095932988943	O2	ähm, es wächst sehr, sehr stark, ähm, bevölkerungsseitig, aber auch von der Wirtschaft her, Indien, äh, investiert [N]
+108.56095932988943	112.05862865551458	O2	massenweise und, und sehr, sehr stark in die Infrastruktur. [N]
+112.25181131910328	119.96771916676693	O2	Ähm, das Eisenbahnnetz soll ausgebaut werden und Indien hat jetzt ein ähm, großes Vorhaben, nämlich äh, auch ein, [N]
+119.96771916676693	124.66272518407492	O2	ein riesiges Wasserstoffprojekt auszurollen, beziehungsweise tun sie halt auch schon seit Längerem. [N]
+125.00363576687853	129.46726278130916	O2	Denn äh, natürlich ja, muss der CO zwei-Fußabdruck [N]
+129.60283989584588	134.02331378619957	O2	auch geringer werden. Aber gleichzeitig ist es auch noch so, ich weiß jetzt nicht die äh, ähm, [N]
+134.11501039353197	138.34	O2	die genauen Zahlen aber, dass man ja, auch ein Land vorfindet, [N]
+138.34	143.13909160530835	O2	was ja einerseits sehr, sehr modern ist, aber auf der anderen Seite jja auch viel Armut, ähm, zu gewärtigen hat. [N]
+143.5604563854578	149.77635766878547	O2	Und ähm, viele Menschen noch nicht am, äh, Stromnetz angeschlossen sind, keinen fließenden Strom haben, kein fließendes Wasser. [N]
+149.99308804110044	153.74310445194035	O2	Und das soll natürlich auch geändert werden und dort kann Wasserstoff beispielsweise, [N]
+153.9127394068028	160.26045857356982	O2	ähm, Abhilfe schaffen. Und ähm, Indien hat da sehr, sehr große Ziele, die dann auch darin gipfeln könnten. [N]
+160.44227755106508	166.90817992844873	O2	Und ähm, das äh, ist auch in dem Artikel verarbeitet, ähm, dass wirtschaftsseitig, ähm, [N]
+166.9195436145422	173.97772354299087	O2	Indien bald sogar, also bald, in sehr mehreren Dekaden, aber die USA als Wirtschaftsmacht auch ablösen kann. [N]
+173.97772354299087	180.8585057821059	O2	Und das fand ich schon wirklich äh, sehr, sehr beachtlich. Wenn man jetzt mal die, ähm, Niveaus sich anschaut, [N]
+180.87	185.28862646740262	O2	von wo startet Indien, wo ist die USA? Ähm, sehr, sehr interessant. [N]
+185.57271861973896	192.00590128332772	O2	Ähm, sehr interessante äh, Geschichte, ähm, die wir da jetzt so in der Redaktion äh, äh, halt auch erarbeitet haben, ja. [N]
+192.18772026082294	195.5949830421321	O1	Ja, es ist ganz interessant, weil Indien war [N]
+195.66500754855898	200.76730260451995	O1	e - eher ruhiger, auch Kapitalmarktseitig. Also wir kriegen das ja immer wieder mal so mit, was so, [N]
+200.99273393652282	206.84273503057884	O1	äh, Tendenzen auch sind, wenn, wenn ETF-Anbieter irgendwelche Roadshows machen oder auch äh, sonstige, [N]
+207.00182663588723	213.19500929947594	O1	äh, ähm, Volkswirte oder dergleichen, wenn die Pressemitteilungen verschicken, was so, so die Themen sind, die Leute bewegen. [N]
+213.2063729855694	221.2063729855694	O1	Indien war da lange, lange Zeit, war das, war das eher etwas ruhiger und natürlich war immer China und, und natürlich die klassischen, äh, Märkte, USA und so weiter, [N]
+221.64273065435492	228.0718255418312	O1	ähm, im Fokus gestanden. Ähm, Fand ich ganz spannend, dass du dir das Thema dann rausgesucht hast und äh, lohnt sich auf jeden Fall mal ein Blick [N]
+228.41273612463482	234.92091386497162	O1	auf äh, China. Und äh, bei äh, Entschuldigung auf Indien und bei, China ist es ja auch so interessant, weil das, das kam nämlich [N]
+234.92091386497162	239.250002188112	O1	auch noch nicht so stark in den Medien vor. Man hat immer den Eindruck, ob es [N]
+239.250002188112	245.74727919214902	O1	China, das große Land, äh, Milliardenbevölkerung, aber die haben halt jetzt nachhaltige Probleme durch ihre Ein-Kind-Politik. [N]
+246.13364451932654	250.29271861973893	O1	Ähm und das führt einfach dazu, dass jetzt der, der das Bevölkerungs, [N]
+250.37226442239313	257.5268184304673	O2	ähm, oder die Anzahl der Bevölkerung nachhaltig sinkt, ja. Und äh, das ist natürlich schon auch ein interessanter Fakt, was passiert mit [N]
+257.7540921523364	265.47	O2	so großen Volkswirtschaft, die über Jahre richtig geboomt hat und jetzt äh, tendenziell eher die, das Bevölkerungswachstum zurückgeht. Und sie [N]
+265.47	273.03455510213007	O1	können es eigentlich im Prinzip gar nicht aufhalten, weil eben durch diese Ein-Kind-Politik, die da, ähm, lange, lange Zeit ja betrieben wurde, [N]
+273.3527383127467	275.64816789383275	O1	ähm, jetzt schlägt es, sozusagen die Demografie dar, [N]
+275.6678878422087	281.64998078243644	O1	ähm, in Anführungsstrichen zurück, ja. Das ist [OVERLAP/] ganz spannend [/OVERLAP] das hat man glaube ich noch nicht so auf dem Fokus oder auf dem Radar eingestellt. [N]
+281.64998078243644	288.0240899642243	O2	Ja, ja, sehr interessant auf jeden Fall, weil es ja sehr langfristige äh, Trends äh, und, und [OVERLAP/] Themen [/OVERLAP] halt sind, ja. [N]
+288.0240899642243	290.80180475476726	O2	[OVERLAP/] Also [/OVERLAP] bin sehr gespannt, wie die Entwicklung dort weitergeht, ja. [N]
+291.23360759450935	294.3245474437382	O1	Apropo Themen, du gibst ja, die perfekten Übergänge. Haha. [N]
+294.3245474437382	297.2108887016838	O1	Ja, ja [OVERLAP/] Ja, [/OVERLAP] die, äh, Frank-Elstner-Moderatoren-Schule. [N]
+297.2108887016838	302.72229423499164	O1	Ja, genau. Ähm, äh, Frank Elstner, wer, wer, wer das nicht kennt ja von unseren Zuschauern. [N]
+303.114962856799	304.5695146767611	O1	[OVERLAP/] Die älteren werden sich erinnern. [/OVERLAP] [N]
+304.8077399538309	309.70910473398027	O2	Wer das nicht kennt, äh, das ist sowas ähnliches wie, ähm, keine Ahnung, Schlag den Raab. [N]
+309.93637845584936	315.52682718291527	O2	Vielleicht, die Möglichkeiten hat er, ähm. Den gibt es ja auch schon nicht mehr. Also, äh, egal. Ähm [N]
+316.0495567432141	323.5159231644475	O2	Wir, wir haben auch noch, ähm, natürlich wieder eine Beilage im Heft und das haben wir eigentlich in jeder Ausgabe, wo wir uns immer so einem speziellen Thema [N]
+323.5159231644475	330.74	O1	schwerpunktmäßig widmen und diesmal ist es das Thema Themen-ETF. Und da hat ja der, der Franz Rieber, unser, äh, Head of Research und, [N]
+330.74	337.37772026082297	O1	und Product, hat ja wieder eine Analyse gemacht über die, die Themen-ETFs. Das habt ihr dann da auch in einem Artikel entsprechend zusammengefasst. [N]
+337.77089636007577	342.97816351760895	O1	Kannst du da vielleicht so die paar Key Facts zum Schluss nochmal ähm, mitgeben? [N]
+342.97816351760895	347.20708585557406	O2	Ja, ich will da, ähm, ich würde das so ein bisschen globaler halt, ähm, betrachten und zwar, [N]
+347.229813227761	350.3042007941264	O2	ich will da jetzt nicht zu viel verraten, aber es ist natürlich wirklich klasse, ähm, [N]
+350.55420188818266	357.6490970755884	O2	dass wir da ähm, ja auf unseren, äh, Franz, äh, zurückgreifen können, der da wirklich eine super Arbeit geliefert hat. Vor allen Dingen hat er sich mal angeschaut, [N]
+357.9786439722985	359.8104421627298	O2	wieviel äh, [N]
+360.09628020130174	363.99402453135656	O2	wie groß ist der Anteil von Themen-ETFs an den Neuemissionen?
+364.2990981696443	370.019997811888	O2	Und der hatte jetzt beispielsweise im August dieses Jahres bereits dreißig Prozent [N]
+370.019997811888	375.40453759723425	O2	erreicht. Also dreißig Prozent der ganz Neuemissionen an ETFs sind Themen-ETFs. [N]
+375.7340844939444	381.5436313906546	O2	Ähm, das finde ich jetzt vor allen Dingen im aktuellen Umfeld, äh, sehr, sehr interessant, weil wir haben ja sonst noch, [N]
+381.5436313906546	388.5895359561502	O2	äh, die Anleihen-ETFs, die ja durch jetzt die Zinspolitik ja auch wieder beliebter geworden sind, ne, wir haben die I-Bonds und da haben wir auch schon einiges zu gemacht. [N]
+388.96552499110226	393.58500711136395	O2	Also sehr, sehr interessant, Themen-ETFs, finde ich sowieso sehr interessant, [N]
+393.8009171471396	398.25135930986943	O2	müssen aber auch von Anlegenden immer, äh, etwas mit Vorsicht genossen werden,
+398.4786330317386	405.23999124755204	O2	denn es sollte eine, ja, Depot-Beimischung, äh, zunächst bleiben und ähm, man sollte sich dort erst mal, [N]
+405.55817445816876	412.17591003577553	O2	ähm, Erfahrungen, äh, ja aneignen. Und da wollen wir natürlich ein bisschen Hilfestellungen dazu auch geben. [N]
+412.2559100357757	419.85818102250477	O2	Nehmen wir beispielsweise eine, ähm, ja, Megatrends-Landkarte, ähm, e - erarbeitet haben. [N]
+419.85818102250477	424.94270549106704	O2	Und ähm, erst mal erklärt haben, so was Megatrends sind und wie zum Beispiel neue Energie,
+425.2267976434034	433.1699792129362	O2	äh Mobilität und dergleichen mehr alternde Bevölkerung, damit man halt weiß, okay, was bedeutet Megatrends eigentlich erst mal um das halt klar zu kriegen. [N]
+433.32864287824253	440.2263653271774	O2	Und dann kann man halt so in die einzelnen Themen-ETFs halt gehen, wenn man dort eine Depot-Beimischung halt haben möchte oder jetzt ein [N]
+440.35136587420544	446.40817555222475	O2	für sich interessantes Thema, äh, entdeckt hat. Und dort soll die, ähm, Beilage dann, [N]
+446.40817555222475	448.9131476537969	O1	äh, ja, für, für Durchblick sorgen. [N]
+448.9131476537969	451.25579225936593	O1	Ja, ist auf jeden Fall spannend und [N]
+451.7736833751951	458.17636423312143	O1	sehen wir ja auch, wenn wir einen, äh Artikel mal auf der Webseite veröffentlichen zu irgendeinem neuen Thema, was erschlossen wurde gerade, [N]
+458.55136587420543	462.6308941719638	O1	da ist die Interessenslage immer sehr, sehr hoch und dann haben wir sehr hohe Abrufzahlen drauf, [N]
+462.6308941719638	463.1763511044496	O2	Ja.
+463.1763511044496	465.3708220694001	O1	Weil es dann einfach auch ein bisschen eine Bereicherung ist. [N]
+465.5790806647484	471.369996717832	O1	Ähm, öh, aus Redaktionssicht oder so, wie ich das auch, äh, mitbekomme, ist es ja so, dass die mehr, also [N]
+471.369996717832	472.02909051125243	N	[IVS]
+472.02909051125243	477.8940888701684	O1	Gesagt, dreißig Prozent sind Themen-ETFs. Aber die anderen siebzig Prozent, das sind meistens Adaptionen von ähm, [N]
+477.8940888701684	484.7463565747295	O1	bestehenden ETFs in einer nachhaltigen Variante und das kann ich nicht mehr sehen, muss ich ganz ehrlich sagen, deswegen freue [OVERLAP/] ich mich [/OVERLAP] immer, immer wieder. [N]
+484.8028584357287	485.17786007681275	N	[IVS]
+485.17817664628075	490.51907410041247	O1	Wieder ein Themen-ETF kommt, da kann man sich mal wieder mal ein neues Thema anschauen und es gibt auch, ist auch ganz spannend, immer wieder [N]
+490.51907410041247	497.7868968321311	O1	wirklich neue Themen, also es ist ja nicht nur so, dass es äh, äh, dann die fünfte Variante von einem künstlichen Intelligenz-ETF gibt, [N]
+497.7868968321311	505.67255064928236	O1	sondern ähm, mal, gut das letzte war jetzt vielleicht nicht so ein schönes Thema, aber mal Rüstung gab es mal, dann haben wir mal Raumfahrt gehabt, dann, [N]
+506.4907010382193	514.433882607752	O1	ähm, äh, spezial nochmal andere Spezialthemen, teilweise Cloud, Rechenzentren, gibt es dann Themen-ETFs ist vielleicht ein super Exot. Aber [N]
+514.7094711660943	522.0806976544367	O1	es ist einfach interessant und spannend, da in dieses Segment reinzugehen und bevor ich mir da irgendwelche Einzelaktien raussuche in einem speziellen Gebiet, [N]
+522.4236975045648	530.3100606436304	O1	würde ich immer lieber in einen, äh, Themen-ETF gehen, weil da habe ich die grundsätzlich gleichen Vorzügigkeit. Ich kann dann flexibel, schnell und so weiter handeln. [N]
+530.5386461604105	537.2513702504294	O1	Und bin aber nicht immer nur in eine oder vielleicht zwei Aktien investiert, sondern habe da auch eine gewisse Diversifikation, weil ich glaube gerade in so einem Thema, [N]
+537.6263718915134	544.0013647801496	O1	zum Beispiel künstliche Intelligenz. Das kann mal plötzlich eine komplett Kehrtwende nach links oder eine komplett [N]
+544.0175618402329	547.2334850046805	O1	äh, Kehrtwende nach rechts geben bei irgendwelchen Entwicklungen, technologisch. [N]
+547.4331979803727	554.6604673260179	O1	Und da habe ich lieber mal meine Finger, äh, äh, da in mehreren Aktien im Spiel, als [OVERLAP/] wie jetzt auf [/OVERLAP] einen vermeintlichen Gewinner zu setzen, oder? [N]
+555.387319484973	562.1764565685676	O2	Ja, absolut, ähm. Ich würde, natürlich, äh, äh, muss ich das sagen, aber ich sage das auch sehr gerne. [N]
+562.4037302904367	568.599848873411	O2	Ähm, ich bin da lieber mit ETFs unterwegs, wie du richtigerweise sagst, weil auch dieser ganze Stockpicking-Ansatz, ähm,
+569.0990522183937	572.337667745236	O2	mir äh, etwas zu mühselig ist,
+572.7240330724135	579.294558384298	O2	aber ähm, nichts desto trotz muss man so ein bisschen darauf achten, auch bei den ETFs sind zum Beispiel Cannabis-ETFs, wenn man dann die Cannabis, ähm,
+579.4536499896063	583.2825319537432	O2	Industrie, äh, investieren möchte, dort sind ja dann teilweise auch nur zehn,
+583.523454047474	588.7801451825288	O2	äh, Werte halt drin. Das zeigt dann auch so ein bisschen, man holt sich dann trotzdem auch ein gewisses Klumpenrisiko [N]
+588.9961857501052	595.8774764173833	O2	äh, mit rein. Deswegen auch bei Themen-ETFs immer noch mal genauer hinschauen. Das, äh, tut man am besten hahaha natürlich mit der Beilage. [N]
+596.304459392873	600.2890861350284	O2	Und ähm, wir haben auch noch eine Strategie dazu, also die Core-Satellite-Strategie. [N]
+600.5959056595517	603.970885419516	O2	Ähm vielleicht hat es der ein oder andere, die ein oder andere schon gehört, [N]
+604.1640680831046	611.8408974541317	O2	aber ähm, es ist wirklich, äh, eine sehr praktikable Sache, wie man Themen-ETFs in das Depot einbinden kann. [N]
+612.0932342466144	613.6356784850343	O1	Ja, ja, ja, auf jeden Fall. [N]
+613.8629522069033	619.6831199192773	O1	Und bei uns auf der Webseite extraetf äh, dot com haben wir ja, sowieso die ETF-Profilseiten, [N]
+619.8649388967726	626.0240217496334	O1	wo man sich dann die Top Holdings und Sektorgewichtungen anschauen kann und ähm, und da [N]
+626.0240217496334	632.7927306543547	O1	summieren wir auch die Top Holdings. Und wenn man dann jetzt zum Beispiel so ein Themen-ETF hat, der dann sich aus vierzig Aktien zusammen setzt [N]
+633.145004923252	636.4536237322628	O1	und die Top Ten machen fünfzig Prozent des Portfolios aus,
+636.6739953560673	638.19672929259	O1	dann da auf jeden Fall mal, auf.
+638.19672929259	639.0103869943156	N	[IVS]
+639.0103869943156	643.1922234767065	O1	Zweimal hinschauen sozusagen, was man sich da einkauft, wie du es gerade gesagt hast. Es gibt auch so, [N]
+643.6013822850455	649.1695534610462	O1	äh, sind ja eigentlich auch Themen-ETFs und Branchen-ETFs, also auf Automobilindustrie oder auch auf, äh, äh
+649.9763751736816	651.7221251381445	O1	Reise, äh, ähm, Travel und.
+652.0096892437729	653.1346941670248	O1	[OVERLAP/] Network [/OVERLAP] glaube ich, heißen die.
+653.4948601687233	660.7448568865555	O1	Ähm, da hast du dann teilweise, äh, dreißig Prozent VW, fünfundzwanzig Prozent Mercedes und schlag mich tot BMW und so weiter drin.
+660.9834942945181	666.6671860990042	O1	Das macht natürlich dann eigentlich keinen Sinn mehr. Da kann ich mir auch eigentlich gleich die drei Aktien kaufen und dann habe ich auch achtzig Prozent meines,
+666.9506282079275	668.7012859097325	O1	[OVERLAP/] meines Geldes [/OVERLAP] dort investiert, ja. [N]
+668.8490138289475	675.3379046421194	O1	[OVERLAP/] Also da immer Augen [/OVERLAP] auf, Augen auf. Und manchmal sind sie auch zu teuer, muss man auch sagen. Also, äh, Themen-ETFs, [N]
+675.8437385192791	683.3509094887474	O1	tolles, spannendes Thema. Spannend, in, äh, sich da, sich mal damit auseinanderzusetzen und sich die Themen einfach mal anzuschauen. [N]
+683.5268471157764	689.214136724797	O1	Aber immer Augen auf im Sinne von Diversifikation, im Sinne von Kosten und vielleicht auch, ob man nicht, [N]
+689.214136724797	693.6000021881118	O1	wenn ein Thema in ETF rauskommt, ob man dann nicht vielleicht gerade in diesem Trend-Thema dann auch.
+693.6000021881118	693.9750273671199	N	[IVS]
+693.9750273671199	695.5204886758296	O1	Schon den Zenit überschritten hat. [N]
+695.9068304650832	703.6840022438736	O1	Ähm, ja, a - also nicht jetzt nur, weil es ein tolles Thema ist, gleich investieren, sondern schon bissel genau prüfen, was man da eigentlich macht und, ob man es jetzt machen sollte. [N]
+704.0694001924569	709.6248854380866	O2	Ja, genau. Also es ist halt wieder so ein Ding mit don't Believe the Hype in dem Sinne, dass man [N]
+709.8521591599556	716.4736313906545	O2	ja auch vielleicht erst mal abwarten kann, ne. Also als wir fordern ja auch oder wir raten immer einen langen Anlagehorizont zu haben [N]
+716.9963609509534	722.6741569423925	O2	und deswegen muss man ja auch nicht immer sofort auf jedes Thema dann halt aufspringen und ähm, kann halt erst mal abwarten. [N]
+722.8483853326927	729.9809720906919	O2	Ähm, wie sich, äh, so etwas entwickelt, äh, genauso ist es ja auch bei Börsengängen, ne. Also muss ich beim Börsengang, muss ich immer direkt mitzeichnen? [N]
+730.1959198822796	736.8399863467403	O2	Meiner Meinung nach nein. Ich glaube, es gibt sogar Studien dazu, die beweisen, dass halt so alles, was man direkt mitgezeichnet hat, halt eher auch erst mal,
+737.1240784990766	743.0216970557752	O2	ähm, von Verlusten gekennzeichnet ist und ähm, man erst so mit der Zeit halt dann in die Gewinnzone zurückkehrt. [N]
+743.3057892081116	749.3263620450094	O2	Und ähm, genau, das, äh, würde ich halt auch unseren Anlegenden halt, äh, zurufen wollen. [N]
+749.3263620450094	755.6218091309914	O2	Habt Geduld, habt eine ordentlich langen Anlagezeitraum und ähm, [N]
+755.6218091309914	761.3995359561503	O2	wenn ihr ein interessantes Thema findet, schaut es euch an und es spricht überhaupt nichts dagegen darin zu investieren.
+761.5472638753652	768.9856299452223	O2	Aber ähm, natürlich auch mit dem nötigen Nervenkostüm, mit der nötigen Ruhe und mit den nötigen Informationen, die gibt es natürlich bei uns. [N]
+768.9856299452223	774.2413593098696	O1	Ja. Und dass du auch einen langen Horizont hast, hast du [N]
+774.2413593098696	781.507545855113	O1	bewiesen. Weil du hast mir vorhin nämlich noch mal erzählt, dass du gestern einen Marathon gelaufen bist, wo ich dir, äh, auf jeden Fall, äh, mal, äh, herzlichen Glückwunsch sage. [N]
+781.8711838101035	782.5838253195375	O2	[OVERLAP/] Danke, danke. [/OVERLAP] [N]
+782.5838253195375	784.8177279192149	O1	Und vor allem braucht man auch, äh, Durchhaltevermögen. [N]
+785.0677290132709	792.9827328424669	O1	Äh, äh, das nötige, wie sagt man das, Sitzfleisch ist es nicht, aber äh, ja, äh, äh, ma - ma - man muss dranbleiben ja, Durchhaltevermögen. [N]
+793.1531881338686	796.0317926558106	O1	Und äh, das Wetter war ja wahrscheinlich auch recht warm gestern. [N]
+796.0317926558106	797.1535239967862	N	[IVS]
+797.1535239967862	799.8499911832112	N	[IVS]
+800.2704475686689	803.3648139776194	O2	Nee, das stimmt und man sieht es glaube ich so ein bisschen an mei - an meiner äh, Trucker-Bräune. [N]
+803.5807240133952	809.7472846624289	O2	Und äh, das Interessante ist halt auch, wenn man jetzt heute mal so auf LinkedIn guckt, also ich äh, äh, befinde mich ja in Köln. [N]
+810.1677410478869	817.4113614979817	O2	Ähm, gestern war der, der Marathon in Köln und äh, wie viele LinkedIn-Posts es jetzt äh, da wieder gibt und dann wieder verknüpft wird. Ja, ähn man braucht [N]
+817.4113614979817	823.2770918600975	O2	e - eben, äh, ja, Ausdauer und das braucht man auch bei der Geldanlage. Das ist tatsächlich so, ähm, [N]
+823.2770918600975	830.6861801832378	O2	genau, deswegen. Also, ähm, falls ihr jetzt keinen Marathon laufen wollt, sondern Geld anlegen wollt, äh, dann tut das und äh, ja tut das mit der, mit der nötigen Ausdauer, [N]
+831.0712304415932	835.5690959815323	O2	ähm, und ja, wenn ihr dann Rendite generiert, dann, ähm, [N]
+835.5690959815323	839.3870206938526	O2	macht das doch als oder nehmt es her als Anmeldegebühr für den nächsten Marathon.
+839.9638182994152	840.3269267077654	O1	Genau. [N]
+840.3269267077654	841.5571431625174	N	[IVS]
+841.5571431625174	843.6393106852441	O1	Da muss man auch etwas zahlen dafür, dass man mitlaufen kann. [N]
+843.6393106852441	847.3143282385915	N	[IVS]
+847.4961472160869	853.7845518199622	O1	Gut, super Jens. Äh, vielen Dank, äh, für das, äh, Gespräch, ja, äh, [OVERLAP/] für den kleinen [/OVERLAP] Reifzug wieder durch unsere neueste Ausgabe. [N]
+854.0913713444855	860.114089964224	O1	Und ähm, ja, ähm, wir sehen uns dann auf jeden Fall mal spätestens wieder in zwei Monaten mit
+860.114089964224	865.5736248263186	O1	der Ausgabe eins zweitausendvierundzwanzig, die jetzt ja schon in der Planung ist. [N]
+865.5736248263186	873.0554591205977	O1	Und davor, ähm, sehen wir dich ja auch, hast du schon kurz erwähnt, auf unserem YouTube-Kanal. Wir teilen uns das jetzt auch mal so ein bisschen auf ja.
+873.3054602146537	878.0572671575333	O1	Du hast einmal das Interview gemacht mit dem, äh, Doktor Tonka und ähm, [N]
+878.0572671575333	884.9608985481876	O1	ein weiteres Video, glaube ich, kommt ja auch noch, ähm, das habe ich jetzt, ist mir gerade entfallen. Du hattest es mir es vorhin noch in einem Gespräch gesagt.
+885.3309340485952	887.3650338593235	O1	Ähm, das weißt du besser wahrscheinlich.
+887.3650338593235	893.2611280525405	O2	Genau. Also Doktor Hartmut Walz äh, wird, äh [OVERLAP/] unser [/OVERLAP] Gast sein, äh, oder ja, unser und meiner. [N]
+893.579311263157	898.2554328632539	O2	Ähm, und wir werden uns um, äh, anliegenden Psychologie
+898.2554328632539	901.9900978615991	O2	kümmern und ähm, werden herausarbeiten, wie man gute Entscheidungen trifft,
+902.2118211656069	908.2881788343927	O2	für den, äh, langfristigen Börsenerfolg. Und ähm, das Pferd zäumen wir jetzt mal
+908.2881788343927	913.6518036607114	O2	von einer ganz anderen Seite auf und äh, werden dort mal alle Fakten, [N]
+913.9295144575226	917.1568013080637	O2	äh, betrachten und werden dort halt auch äh, ja, [N]
+917.3763620450094	925.3763620450094	O2	weit in die Menschheitsgeschichte zurückgehen, was so Urinstinkte und so angeht. Also es ist jetzt nicht so dieses typische vermeidet den Homebys und so, was jetzt natürlich nicht falsch ist.
+925.8227295602987	933.5443190334415	O2	Ähm, aber stay tuned, seid gespannt, ähm, es wird, äh, ja, sehr informativ und ein großer Spaß. Davon, äh, bin ich fest berzeugt.
+933.967725954894	941.5581941511767	O1	Perfekt. Also Poadcast folgen, YouTube-Kanal folgen, alles schön abonnieren, ähm, da kriegt ihr eine Menge, Menge guten Content, [N]
+941.5581941511767	943.1995311199271	O1	um euch fit zu machen
+943.3813500974225	951.3018042947682	O1	beim Thema Geldanlage. Und nicht immer nur alles plain Vanilla Geldanlage, sondern wir schauen auch mal ein bisschen nach links und schauen auch mal ein bisschen nach rechts, [N]
+951.5086275614586	954.6618058488235	O1	um einfach da auch den, den Mindset ein bisschen zu öffnen.
+954.6618058488235	960.4913418049738	O1	und euch eben dabei zu unterstützen. Das ist ja ein Claim von der Firma, äh, euch finanziell zu wachsen, helfen. Und
+960.4913418049738	966.1650114875878	O1	ähm, wenn uns, wenn euch das gefällt, dann freuen wir uns natürlich über jedes Feedback, positives und [N]
+966.1650114875878	971.8013647801495	O1	umso mehr negatives auch, weil das nutzen wir dann nämlich, um es wieder besser zu machen und für das nächste Mal zu verbessern.
+972.2383593147243	973.6934372588975	O1	Jens, vielen Dank für die Zeit.
+973.9914376628989	974.9777397778146	O2	[OVERLAP/] Dankeschön Markus. [/OVERLAP]
+974.9777397778146	977.0635817734999	O1	Macht und bis zum nächsten Mal.
+977.0754852828286	978.4057520425727	O2	Tschüss.
+978.4057520425727	985.4072780980929	O1	So. So, das war das Gespräch mit Jens Jüttner zur neuen Ausgabe des Extra Magazins zum Thema Staatsfonds. [N]
+985.6459155060554	989.7327240900189	O1	In der Videobeschreibung findest du Links zu dieser Ausgabe und
+989.7440877761123	996.8236292025424	O1	falls du ein Abo abschließen möchtest, auch zu unserem Shop, wo du ein Abo abschließen kannst. Würde uns natürlich sehr freuen, wenn du uns hier unterstützt. [N]
+997.0460891301777	1002.4254678730457	O1	Da steckt eine Menge Arbeit drin und natürlich machen wir das für dich und wenn du es dann auch noch kaufst,
+1002.6413779088214	1010.6413779088214	O1	ist es unser Lohn und freut uns natürlich ganz besonders. Schreib doch mal in die Kommentare, wie dir die Ausgabe gefällt, wie dir auch dieses Videoformat gefällt. [N]
+1010.961740607394	1015.3059950307628	O1	Sollen wir was verbessern? Sollen wir was ändern? Würde mich ganz besonders interessieren [N]
+1015.5531769802897	1022.4018146012713	O1	und ansonsten würde ich mich natürlich sehr freuen, wenn du den extra ETF YouTube-Kanal abonnierst, gerne auch für dieses Video ein Like da lässt. [N]
+1022.7082595001017	1028.2814443518023	O1	Ansonsten sehen wir uns wieder in der kommenden Woche hier auf dem Kanal von extra ETF. [N]

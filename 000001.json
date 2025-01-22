@@ -1,0 +1,444 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "Extra-Magazin",
+            "type": "ORGANIZATION",
+            "start": 40,
+            "end": 53,
+            "lettercase": "MC"
+        },
+        {
+            "id": 2,
+            "name": "zweitausenddreiundzwanzig",
+            "type": "TIME",
+            "start": 92,
+            "end": 117,
+            "lettercase": "LC"
+        },
+        {
+            "id": 3,
+            "name": "Extra-ETF",
+            "type": "ORGANIZATION",
+            "start": 309,
+            "end": 318,
+            "lettercase": "MC"
+        },
+        {
+            "id": 4,
+            "name": "Extra-Magazin",
+            "type": "ORGANIZATION",
+            "start": 327,
+            "end": 340,
+            "lettercase": "MC"
+        },
+        {
+            "id": 5,
+            "name": "Jens Jüttner",
+            "type": "PERSON",
+            "start": 341,
+            "end": 353,
+            "lettercase": "MC"
+        },
+        {
+            "id": 6,
+            "name": "Jens",
+            "type": "PERSON",
+            "start": 478,
+            "end": 482,
+            "lettercase": "UC"
+        },
+        {
+            "id": 7,
+            "name": "heute",
+            "type": "TIME",
+            "start": 504,
+            "end": 509,
+            "lettercase": "LC"
+        },
+        {
+            "id": 8,
+            "name": "Extra-Magazin",
+            "type": "ORGANIZATION",
+            "start": 538,
+            "end": 551,
+            "lettercase": "MC"
+        },
+        {
+            "id": 9,
+            "name": "Anfang Oktober",
+            "type": "TIME",
+            "start": 594,
+            "end": 608,
+            "lettercase": "MC"
+        },
+        {
+            "id": 10,
+            "name": "Jahresende",
+            "type": "TIME",
+            "start": 663,
+            "end": 673,
+            "lettercase": "UC"
+        },
+        {
+            "id": 11,
+            "name": "heute",
+            "type": "TIME",
+            "start": 723,
+            "end": 728,
+            "lettercase": "LC"
+        },
+        {
+            "id": 12,
+            "name": "in diesem Jahr",
+            "type": "TIME",
+            "start": 777,
+            "end": 791,
+            "lettercase": "MC"
+        },
+        {
+            "id": 13,
+            "name": "pro Jahr",
+            "type": "TIME",
+            "start": 839,
+            "end": 847,
+            "lettercase": "MC"
+        },
+        {
+            "id": 14,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 866,
+            "end": 871,
+            "lettercase": "LC"
+        },
+        {
+            "id": 15,
+            "name": "zweitausendvierundzwanzig",
+            "type": "TIME",
+            "start": 909,
+            "end": 934,
+            "lettercase": "LC"
+        },
+        {
+            "id": 16,
+            "name": "Jahresende",
+            "type": "TIME",
+            "start": 960,
+            "end": 970,
+            "lettercase": "UC"
+        },
+        {
+            "id": 17,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1286,
+            "end": 1291,
+            "lettercase": "LC"
+        },
+        {
+            "id": 18,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1657,
+            "end": 1662,
+            "lettercase": "LC"
+        },
+        {
+            "id": 19,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1725,
+            "end": 1730,
+            "lettercase": "LC"
+        },
+        {
+            "id": 20,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1806,
+            "end": 1811,
+            "lettercase": "LC"
+        },
+        {
+            "id": 21,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 2778,
+            "end": 2783,
+            "lettercase": "CA"
+        },
+        {
+            "id": 22,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3176,
+            "end": 3181,
+            "lettercase": "LC"
+        },
+        {
+            "id": 23,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3700,
+            "end": 3705,
+            "lettercase": "LC"
+        },
+        {
+            "id": 24,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3988,
+            "end": 3993,
+            "lettercase": "LC"
+        },
+        {
+            "id": 25,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 4008,
+            "end": 4013,
+            "lettercase": "CA"
+        },
+        {
+            "id": 26,
+            "name": "Anja Mikus",
+            "type": "PERSON",
+            "start": 4123,
+            "end": 4133,
+            "lettercase": "MC"
+        },
+        {
+            "id": 27,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 4527,
+            "end": 4532,
+            "lettercase": "CA"
+        },
+        {
+            "id": 28,
+            "name": "den Saudi, äh, saudischen Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 4620,
+            "end": 4657,
+            "lettercase": "MC"
+        },
+        {
+            "id": 29,
+            "name": "PEF",
+            "type": "ORGANIZATION",
+            "start": 4663,
+            "end": 4666,
+            "lettercase": "CA"
+        },
+        {
+            "id": 30,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 4960,
+            "end": 4965,
+            "lettercase": "CA"
+        },
+        {
+            "id": 31,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5019,
+            "end": 5024,
+            "lettercase": "LC"
+        },
+        {
+            "id": 32,
+            "name": "Norwegen",
+            "type": "LOCATION",
+            "start": 5418,
+            "end": 5426,
+            "lettercase": "UC"
+        },
+        {
+            "id": 33,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 5852,
+            "end": 5857,
+            "lettercase": "CA"
+        },
+        {
+            "id": 34,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 6506,
+            "end": 6511,
+            "lettercase": "CA"
+        },
+        {
+            "id": 35,
+            "name": "Excell",
+            "type": "SOFTWARE",
+            "start": 6535,
+            "end": 6541,
+            "lettercase": "UC"
+        },
+        {
+            "id": 36,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 6728,
+            "end": 6733,
+            "lettercase": "LC"
+        },
+        {
+            "id": 37,
+            "name": "KENFO",
+            "type": "ORGANIZATION",
+            "start": 6914,
+            "end": 6919,
+            "lettercase": "CA"
+        },
+        {
+            "id": 38,
+            "name": "Excell",
+            "type": "SOFTWARE",
+            "start": 6952,
+            "end": 6958,
+            "lettercase": "UC"
+        },
+        {
+            "id": 39,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7231,
+            "end": 7236,
+            "lettercase": "LC"
+        },
+        {
+            "id": 40,
+            "name": "Mikus",
+            "type": "PERSON",
+            "start": 7297,
+            "end": 7302,
+            "lettercase": "UC"
+        },
+        {
+            "id": 41,
+            "name": "Siebzigern",
+            "type": "TIME",
+            "start": 7768,
+            "end": 7778,
+            "lettercase": "UC"
+        },
+        {
+            "id": 42,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7844,
+            "end": 7849,
+            "lettercase": "LC"
+        },
+        {
+            "id": 43,
+            "name": "Mikus",
+            "type": "PERSON",
+            "start": 8154,
+            "end": 8159,
+            "lettercase": "UC"
+        },
+        {
+            "id": 44,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 8543,
+            "end": 8548,
+            "lettercase": "LC"
+        },
+        {
+            "id": 45,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 8945,
+            "end": 8950,
+            "lettercase": "LC"
+        },
+        {
+            "id": 46,
+            "name": "Extra-ETF",
+            "type": "ORGANIZATION",
+            "start": 8966,
+            "end": 8975,
+            "lettercase": "MC"
+        },
+        {
+            "id": 47,
+            "name": "Extra-ETF-Finanzmanager",
+            "type": "SOFTWARE",
+            "start": 9001,
+            "end": 9024,
+            "lettercase": "MC"
+        },
+        {
+            "id": 48,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9375,
+            "end": 9380,
+            "lettercase": "LC"
+        },
+        {
+            "id": 49,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9403,
+            "end": 9408,
+            "lettercase": "LC"
+        },
+        {
+            "id": 50,
+            "name": "Extra-ETF-Finanzmanager",
+            "type": "SOFTWARE",
+            "start": 9585,
+            "end": 9608,
+            "lettercase": "MC"
+        },
+        {
+            "id": 51,
+            "name": "Jahr zweitausenddreizehn",
+            "type": "TIME",
+            "start": 9612,
+            "end": 9636,
+            "lettercase": "UC"
+        },
+        {
+            "id": 52,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9806,
+            "end": 9811,
+            "lettercase": "LC"
+        },
+        {
+            "id": 53,
+            "name": "zehn Jahre",
+            "type": "TIME",
+            "start": 9812,
+            "end": 9822,
+            "lettercase": "MC"
+        },
+        {
+            "id": 54,
+            "name": "zehn Jahren",
+            "type": "TIME",
+            "start": 9997,
+            "end": 10008,
+            "lettercase": "MC"
+        },
+        {
+            "id": 55,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 10310,
+            "end": 10315,
+            "lettercase": "LC"
+        }
+    ]
+}

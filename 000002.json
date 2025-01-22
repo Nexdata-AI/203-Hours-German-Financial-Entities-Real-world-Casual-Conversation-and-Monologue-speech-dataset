@@ -1,0 +1,468 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 226,
+            "end": 231,
+            "lettercase": "LC"
+        },
+        {
+            "id": 2,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 963,
+            "end": 968,
+            "lettercase": "LC"
+        },
+        {
+            "id": 3,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1035,
+            "end": 1040,
+            "lettercase": "LC"
+        },
+        {
+            "id": 4,
+            "name": "Kenfo",
+            "type": "ORGANIZATION",
+            "start": 1072,
+            "end": 1077,
+            "lettercase": "UC"
+        },
+        {
+            "id": 5,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1246,
+            "end": 1251,
+            "lettercase": "LC"
+        },
+        {
+            "id": 6,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1297,
+            "end": 1302,
+            "lettercase": "LC"
+        },
+        {
+            "id": 7,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 1523,
+            "end": 1528,
+            "lettercase": "LC"
+        },
+        {
+            "id": 8,
+            "name": "norwegischen Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 1568,
+            "end": 1592,
+            "lettercase": "MC"
+        },
+        {
+            "id": 9,
+            "name": "Mirkus",
+            "type": "PERSON",
+            "start": 1673,
+            "end": 1679,
+            "lettercase": "UC"
+        },
+        {
+            "id": 10,
+            "name": "norwegischen Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 1726,
+            "end": 1750,
+            "lettercase": "MC"
+        },
+        {
+            "id": 11,
+            "name": "jedes Jahr",
+            "type": "TIME",
+            "start": 1823,
+            "end": 1833,
+            "lettercase": "MC"
+        },
+        {
+            "id": 12,
+            "name": "norwegische Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 2006,
+            "end": 2029,
+            "lettercase": "MC"
+        },
+        {
+            "id": 13,
+            "name": "Kenfo",
+            "type": "ORGANIZATION",
+            "start": 2131,
+            "end": 2136,
+            "lettercase": "UC"
+        },
+        {
+            "id": 14,
+            "name": "heute",
+            "type": "TIME",
+            "start": 2174,
+            "end": 2179,
+            "lettercase": "LC"
+        },
+        {
+            "id": 15,
+            "name": "jedes Jahr",
+            "type": "TIME",
+            "start": 2186,
+            "end": 2196,
+            "lettercase": "MC"
+        },
+        {
+            "id": 16,
+            "name": "Ende des Jahrtausends",
+            "type": "TIME",
+            "start": 2358,
+            "end": 2379,
+            "lettercase": "MC"
+        },
+        {
+            "id": 17,
+            "name": "jedes Jahr",
+            "type": "TIME",
+            "start": 2696,
+            "end": 2706,
+            "lettercase": "MC"
+        },
+        {
+            "id": 18,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 2873,
+            "end": 2878,
+            "lettercase": "LC"
+        },
+        {
+            "id": 19,
+            "name": "norwegischen Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 2905,
+            "end": 2929,
+            "lettercase": "MC"
+        },
+        {
+            "id": 20,
+            "name": "Kenfo",
+            "type": "ORGANIZATION",
+            "start": 3253,
+            "end": 3258,
+            "lettercase": "UC"
+        },
+        {
+            "id": 21,
+            "name": "Jahr zweitausendeinhundert",
+            "type": "TIME",
+            "start": 3340,
+            "end": 3366,
+            "lettercase": "UC"
+        },
+        {
+            "id": 22,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 3381,
+            "end": 3386,
+            "lettercase": "LC"
+        },
+        {
+            "id": 23,
+            "name": "heute",
+            "type": "TIME",
+            "start": 3449,
+            "end": 3454,
+            "lettercase": "LC"
+        },
+        {
+            "id": 24,
+            "name": "im Monat",
+            "type": "TIME",
+            "start": 3803,
+            "end": 3811,
+            "lettercase": "MC"
+        },
+        {
+            "id": 25,
+            "name": "im Monat",
+            "type": "TIME",
+            "start": 3838,
+            "end": 3846,
+            "lettercase": "MC"
+        },
+        {
+            "id": 26,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4016,
+            "end": 4021,
+            "lettercase": "LC"
+        },
+        {
+            "id": 27,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4161,
+            "end": 4166,
+            "lettercase": "LC"
+        },
+        {
+            "id": 28,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4584,
+            "end": 4589,
+            "lettercase": "LC"
+        },
+        {
+            "id": 29,
+            "name": "deutsche Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 4743,
+            "end": 4763,
+            "lettercase": "MC"
+        },
+        {
+            "id": 30,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 4983,
+            "end": 4988,
+            "lettercase": "LC"
+        },
+        {
+            "id": 31,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5276,
+            "end": 5281,
+            "lettercase": "LC"
+        },
+        {
+            "id": 32,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5306,
+            "end": 5311,
+            "lettercase": "LC"
+        },
+        {
+            "id": 33,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5469,
+            "end": 5474,
+            "lettercase": "LC"
+        },
+        {
+            "id": 34,
+            "name": "Altersvorsorge",
+            "type": "ORGANIZATION",
+            "start": 5514,
+            "end": 5528,
+            "lettercase": "UC"
+        },
+        {
+            "id": 35,
+            "name": "Florian Toncar",
+            "type": "PERSON",
+            "start": 5564,
+            "end": 5578,
+            "lettercase": "MC"
+        },
+        {
+            "id": 36,
+            "name": "Bundes",
+            "type": "ORGANIZATION",
+            "start": 5811,
+            "end": 5817,
+            "lettercase": "UC"
+        },
+        {
+            "id": 37,
+            "name": "FDP",
+            "type": "ORGANIZATION",
+            "start": 5859,
+            "end": 5862,
+            "lettercase": "CA"
+        },
+        {
+            "id": 38,
+            "name": "Bundestages",
+            "type": "ORGANIZATION",
+            "start": 5890,
+            "end": 5901,
+            "lettercase": "UC"
+        },
+        {
+            "id": 39,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 5933,
+            "end": 5938,
+            "lettercase": "LC"
+        },
+        {
+            "id": 40,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 6080,
+            "end": 6085,
+            "lettercase": "LC"
+        },
+        {
+            "id": 41,
+            "name": "Staatsfonds",
+            "type": "ORGANIZATION",
+            "start": 7103,
+            "end": 7114,
+            "lettercase": "UC"
+        },
+        {
+            "id": 42,
+            "name": "M M Warburg Bank",
+            "type": "ORGANIZATION",
+            "start": 7603,
+            "end": 7619,
+            "lettercase": "MC"
+        },
+        {
+            "id": 43,
+            "name": "Jasper Neidel",
+            "type": "PERSON",
+            "start": 7637,
+            "end": 7650,
+            "lettercase": "MC"
+        },
+        {
+            "id": 44,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 7826,
+            "end": 7831,
+            "lettercase": "LC"
+        },
+        {
+            "id": 45,
+            "name": "Deutschland",
+            "type": "LOCATION",
+            "start": 8054,
+            "end": 8065,
+            "lettercase": "UC"
+        },
+        {
+            "id": 46,
+            "name": "Jasper Neidel",
+            "type": "PERSON",
+            "start": 8222,
+            "end": 8235,
+            "lettercase": "MC"
+        },
+        {
+            "id": 47,
+            "name": "M M Warburg",
+            "type": "ORGANIZATION",
+            "start": 8240,
+            "end": 8251,
+            "lettercase": "MC"
+        },
+        {
+            "id": 48,
+            "name": "LinkedIn",
+            "type": "ORGANIZATION",
+            "start": 8393,
+            "end": 8401,
+            "lettercase": "MC"
+        },
+        {
+            "id": 49,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 8704,
+            "end": 8709,
+            "lettercase": "LC"
+        },
+        {
+            "id": 50,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9089,
+            "end": 9094,
+            "lettercase": "LC"
+        },
+        {
+            "id": 51,
+            "name": "morgen",
+            "type": "TIME",
+            "start": 9379,
+            "end": 9385,
+            "lettercase": "LC"
+        },
+        {
+            "id": 52,
+            "name": "Deutschland",
+            "type": "LOCATION",
+            "start": 9399,
+            "end": 9410,
+            "lettercase": "UC"
+        },
+        {
+            "id": 53,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9546,
+            "end": 9551,
+            "lettercase": "LC"
+        },
+        {
+            "id": 54,
+            "name": "Deutschland",
+            "type": "LOCATION",
+            "start": 9812,
+            "end": 9823,
+            "lettercase": "UC"
+        },
+        {
+            "id": 55,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9837,
+            "end": 9842,
+            "lettercase": "LC"
+        },
+        {
+            "id": 56,
+            "name": "jetzt",
+            "type": "TIME",
+            "start": 9915,
+            "end": 9920,
+            "lettercase": "LC"
+        },
+        {
+            "id": 57,
+            "name": "Deutschland",
+            "type": "LOCATION",
+            "start": 10124,
+            "end": 10135,
+            "lettercase": "UC"
+        },
+        {
+            "id": 58,
+            "name": "Großbritannien",
+            "type": "LOCATION",
+            "start": 10203,
+            "end": 10217,
+            "lettercase": "UC"
+        }
+    ]
+}
